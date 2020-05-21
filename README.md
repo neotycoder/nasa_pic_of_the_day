@@ -6,3 +6,4 @@ Enjoy, hope this provides some good examples.
 
 For information about the api, and what you need to do to get your API KEY, visit: https://api.nasa.gov
 
+** UPDATE: I modified this script to copy over to my Pictures directory on my Mac. I set the background image to pull from a sub-dir I copied the image to and change the background every thirty minutes. There's only one pic in there now, but over some time, it'll grow, and my desktop won't stay stagnant. (YES, I AM THAT BORED.)
